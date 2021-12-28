@@ -4,6 +4,7 @@
 * httping xray-core and jq should be preinstalled 
 * script should be on the same place with your xray config.json file 
 * xray config.json file should contain a serverName value and allowInsecure should be set to true
+* there should be a socks5 inbound on config.json set to listenon localhost:2080
 * hostfile should be on the same directory and should contain all the hosts separated by a newline
 # Usage
 * clone or download the script
