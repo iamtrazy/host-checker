@@ -8,7 +8,7 @@
 # Usage
 * clone or download the script
 * give executable permission to the script
-./script hostfile.text
+./hosts.sh hostfile.text
 * after checking all the hosts look for the log.txt to find working hosts
   * eg: grep "Working" log.txt
 * remeber to clear the log file before re running the script else all hosts will append to the same log file
